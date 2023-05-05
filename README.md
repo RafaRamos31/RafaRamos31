@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafa!</h1>
 <h3 align="center">A passionate programmer from Honduras</h3>
+<p>I'm interested in everything related to make code. Currently I'm learning about Web Development (Frontend and Backend).</p>
 
 - 🌱 I’m currently learning **Redux, Websockets and Sass**
 
