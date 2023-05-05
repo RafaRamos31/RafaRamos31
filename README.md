@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Development internships**
 
-- 💬 Ask me about **React, OOP, API's**
+- 💬 Ask me about **React, OOP, APIs**
 
 - ⚡ Fun fact **I have a great ability to remember names**
 
