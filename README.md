@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rafa!</h1>
-<h3 align="center">A passionate programmer from Honduras</h3>
-<p>I'm interested in everything related to make code. Currently I'm learning about Web Development (Frontend and Backend).</p>
+<h1 align="center">Hello world, I'm Rafa! </h1>
+<h3 align="center">I love programming, videogames and puzzles.</h3>
+<p>I'm interested in everything related to make code. Currently I'm learning about 🌐 Web Development (Frontend and Backend).</p>
 
 - 🌱 I’m currently learning **Redux, Websockets and Sass**
 
 - 👯 I’m looking to collaborate on **Development internships**
 
-- 💬 Ask me about **React, POO, API's**
-
-- 📫 How to reach me **rafaelramos19972@gmail.com**
+- 💬 Ask me about **React, OOP, API's**
 
 - ⚡ Fun fact **I have a great ability to remember names**
 
